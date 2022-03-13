@@ -1,0 +1,16 @@
+GET https://api.coindesk.com/v1/bpi/currentprice.json
+Accept: application/json
+
+###
+GET https://gorest.co.in/public/v2/comments
+Accept: application/json
+
+###
+GET https://gorest.co.in/public/v2/todos
+Accept: application/json
+
+###
+GET https://gorest.co.in/public/v2/posts
+Accept: application/json
+
+###
